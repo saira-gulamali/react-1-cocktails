@@ -1,0 +1,5 @@
+git push an exisiting repository from the command line:
+
+git remote add origin https://github.com/sgulamali76/react-1-cocktails.git
+git branch -M main
+git push -u origin main
